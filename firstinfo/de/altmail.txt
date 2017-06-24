@@ -1,0 +1,8 @@
+$GREET
+
+Hast pp mail: $PPMAIL
+
+Info an: $ALTMAIL
+
+Greetz
+PP

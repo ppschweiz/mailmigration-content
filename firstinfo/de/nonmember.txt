@@ -1,0 +1,8 @@
+$GREET
+
+Hast pp mail: $PPMAIL
+
+Git nüüt me!
+
+Greetz
+PP
