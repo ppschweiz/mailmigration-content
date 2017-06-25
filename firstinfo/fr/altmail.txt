@@ -1,8 +1,14 @@
 $GREET
 
-Hast pp mail: $PPMAIL
+Le Parti Pirate Suisse migrera très bientôt tous ses comptes sur Cyon. Ce provider nous permettra entre autre un bien meilleur filtre des spams. 
 
-Info an: $ALTMAIL
+Pour cette raison, nous vous communiquerons une nouveau mot de passe pour y accéder, qui vous parviendra à l'adresse mail 
 
-Greetz
-PP
+$ALTMAIL
+
+Si celle-ci ne devait plus être en service, écrivez svp avant le 7 juillet 2017, avec en objet l'intitulé "Adresse mail", à mitglieder@piratenpartei.ch et communiquez-nous une adresse mail valide. 
+
+
+Salutations pirates,
+
+IT-Team du Parti PIrate Suisse

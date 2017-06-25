@@ -1,8 +1,16 @@
-$GREET
+Hallo
 
-Hast pp mail: $PPMAIL
+Du hast noch eine Mailadresse der Piratenpartei Schweiz, obschon du nicht mehr Mitglied bist. Im Zuge eines Umzugs unserer Mailkonten wird dieses Mailkonto aufgehoben. Du kannst noch bis am 7. Juli 2017 deine Mails herunterladen. Danach werden die Daten noch zwei Wochen aufbewahrt und dann unwiederruflich gelöscht.
 
-Git nüüt me!
+Freundliche Grüsse
+IT-Team der Piratenpartei Schweiz
 
-Greetz
-PP
+
+
+Bonjour, 
+
+Vous bénéficiez encore d'une adresse mail au Parti Pirate Suisse, bien que vous ne soyez plus membre. Dans le cadre d'un accord concernant nos comptes mail, votre compte sera supprimé. Vous pouvez  encore y télécharger vos mails  jusqu'au 7 juillet 2017.  Ensuite, les données seront encore sauvegardées deux semaines avant d'être définitivement supprimées. 
+
+Avec nos cordiales salutations,
+
+IT-Team du Parti PIrate Suisse
