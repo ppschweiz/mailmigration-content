@@ -1,0 +1,22 @@
+$GREET
+
+Votre messagerie e-mail a été migrée avec succès auprès de notre nouvel opérateur Cyon.
+
+Votre adresse e-mail est: $PPMAIL
+
+Votre nouveau mot de passe est : $PASSWORD
+
+Les données du nouveau serveur sont :
+Webmail: https://mail.cyon.ch
+IMAP-Server, mail.cyon.ch, Port 993, TLS
+SMTP-Server: mail.cyon.ch, Port 587, StartTLS
+
+Veuillez changer votre mot de passe immédiatement sur le webmail sous "Einstellungen", "Mailadmin", "Passwort ändern"!
+
+Vous pouvez change le language du webmail sous "Einstellungen", "Benutzeroberfläche". 
+
+En cas de soucis avec le service de messagerie, merci de vous adressez à support@piratenpartei.ch.
+
+Salutations pirates,
+Le IT-Team du Parti Pirate Suisse
+
