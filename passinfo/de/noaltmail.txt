@@ -4,7 +4,7 @@ Deine Mailbox wurde zu unserem neuen Maildiensteanbieter Cyon migriert.
 
 Deine Mailadresse ist: $PPMAIL
 
-Dein neues Passwort ist: $PASSWORT
+Dein neues Passwort ist: $PASSWORD
 
 Die neuen Serverdaten sind:
 Webmail: https://mail.cyon.ch
